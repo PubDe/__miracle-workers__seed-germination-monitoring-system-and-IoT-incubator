@@ -18,4 +18,6 @@ The automated seed germination monitoring system is designed to help researchers
 - User-friendly Interface: Easy-to-use mobile app interface developed with Flutter.
 
 ## License
-This project is licensed under the [MIT] License.
+This project is licensed under the [MIT](https://github.com/PubDe/__miracle-workers__seed-germination-monitoring-system-and-IoT-incubator?tab=MIT-1-ov-file#) License.
+
+.....::..._.-...[PubDe](https://github.com/PubDe)...-._...::.....
