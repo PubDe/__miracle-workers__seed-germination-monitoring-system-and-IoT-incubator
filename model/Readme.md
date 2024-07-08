@@ -53,4 +53,4 @@ python models/research/object_detection/model_main_tf2.py \
 ```
 
 
-------------------PubDe-----------------
+.....::..._.-...[PubDe](https://github.com/PubDe)...-._...::.....
