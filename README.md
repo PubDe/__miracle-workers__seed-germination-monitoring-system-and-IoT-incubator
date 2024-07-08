@@ -1,16 +1,21 @@
-# my_first_app
+# Automated Seed Germination Monitoring System
 
-A new Flutter project.
+This project involves developing an automated seed germination monitoring system that integrates an IoT incubator with a mobile app, machine learning, and remote control capabilities. The system is designed to monitor and manage the germination of seeds, providing real-time updates and control to users.
 
-## Getting Started
+## Overview
+The automated seed germination monitoring system is designed to help researchers efficiently monitor the germination process of seeds. The system consists of:
 
-This project is a starting point for a Flutter application.
+- An IoT incubator built using Arduino.
+- A mobile app developed with Flutter for remote monitoring and control.
+- An SSD MobileNet machine learning model for detecting and counting seeds.
+- Remote temperature and humidity control via the mobile app.
 
-A few resources to get you started if this is your first Flutter project:
+## Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Real-time Monitoring: Monitor the germination status of seeds in real-time via the mobile app.
+- Remote Control: Remotely control the temperature and humidity of the incubator.
+- Seed Detection and Counting: Automatically detect and count seeds using the SSD MobileNet model.
+- User-friendly Interface: Easy-to-use mobile app interface developed with Flutter.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## License
+This project is licensed under the [MIT] License.
