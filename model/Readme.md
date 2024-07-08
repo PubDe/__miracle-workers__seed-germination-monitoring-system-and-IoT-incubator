@@ -20,7 +20,7 @@ This document provides instructions for setting up and configuring the TensorFlo
 
 ## Installation
 
-### Clone the TensorFlow Models Repository to model directory
+### Clone the TensorFlow Models Repository to Tensorflow/model directory
 
 ```bash
 git clone https://github.com/tensorflow/models.git
